@@ -7,17 +7,17 @@ Estoy explorando 🔭 las nuevas tecnologías 🤖 desde este espacio 🌌.
 
 ### 🛠️ Herramientas y Tecnologías
 
-**Lenguajes:**  
+* **Lenguajes:**  
 Java ☕ | Kotlin 🐱 | C# ⚡ | Dart 🐦  
 
-**Frameworks / UI:**  
+* **Frameworks / UI:**  
 JavaFX 🎨 | WinUI3 🖥️ | Flutter 📱  
 
-**Bases de datos:**  
+* **Bases de datos:**  
 MySQL 🐬 | SQLite 🗄️  
 
-**Otras herramientas:**  
+* **Otras herramientas:**  
 Git 🧩 | Maven 📦 | HTML 🌐 | CSS 🎨  
 
-**Enfoque:**  
-Investigación 🔍 | Profesional 💼 | Académico 🎓
+* **Enfoque:**  
+Investigativo 🔍 | Profesional 💼 | Académico 🎓
